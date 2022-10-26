@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hkentaro
 - 👀 I’m interested in Programming,football
-- 🌱 I’m currently learning C#,JavaScript
+- 🌱 I’m learning C#,JavaScript
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me anytime mentions
 
